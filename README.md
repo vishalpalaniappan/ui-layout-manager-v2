@@ -5,4 +5,4 @@ Using my experience building the first version of [ui-layout-manager][layout-man
 
 I will spend some time planning this repo before I start implementation, I understand what it needs to do, I just want to build it in a maintainable way so that people can contribute to it and use it.
 
-[layout-manager]https://github.com/vishalpalaniappan/ui-layout-manager
+[layout-manager]:https://github.com/vishalpalaniappan/ui-layout-manager
